@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+#my-game{
+   
+    border:1px solid black;
+    display: block;
+    margin:0 auto;
+    position: absolute;
+    top:12%;
+    left: 0;
+    right: 0;
+
+}
